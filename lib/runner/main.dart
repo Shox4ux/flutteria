@@ -21,7 +21,7 @@ class _DoubleState extends State<Double> {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
           primaryColor:
-              primary), // ! "primary" called directly from styles package
+              primary), // ! "primary" called directly from Styles package
       home: BottomBar(),
     );
   }
